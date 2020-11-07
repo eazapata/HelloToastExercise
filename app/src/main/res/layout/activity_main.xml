@@ -28,9 +28,9 @@
         android:layout_marginRight="30dp"
         android:background="#CDDC39"
         android:textColor="@color/buttonColor"
-        android:textSize="200dp"
+        android:textSize="200sp"
         android:gravity="center"
-        android:text="0"
+        android:text="@string/countContent"
         />
 
     <Button
